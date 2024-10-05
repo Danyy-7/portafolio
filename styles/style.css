@@ -68,6 +68,11 @@ body{
     color: var(--color--secundario);
 }
 
+.contenedor__presentacion{
+    display:flex;
+    flex-direction:row;
+    gap:30px;
+
 .presentacioon__enlaces{
     display: flex;
     justify-content: space-between ;
